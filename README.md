@@ -2,7 +2,7 @@
 
 ## **Hi there !👋:**
 
-My name is Maxence Thibault and as a software development student, I am constantly learning and growing as a software engineer. My GitHub profile serves as a portfolio of my progress, showcasing my personal projects and contributions to open-source projects. My goal is to continue to learn and improve my skills, and I welcome any feedback or suggestions. Thank you for visiting and taking a look at my work!
+My name is Maxence Thibault and I am a student, I am constantly learning and growing to be a better developer web. My goal is to continue to learn and improve my skills. Thank you for visiting and taking a look at my work!
 </div>
 
 <p align="center">
